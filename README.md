@@ -4,3 +4,6 @@
     * lack of hardward interfaces. eg:I2C/SPI/INTERRUPT
 
 > author : ZJUNlict
+>
+> fork from [Arduino-FOC](https://github.com/simplefoc/Arduino-FOC)
+
